@@ -19,4 +19,4 @@ workflows:
   build_one_and_two:
     jobs:
       - build-one
-      - tbuild-wo
+      - build-wo
